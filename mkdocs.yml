@@ -1,0 +1,16 @@
+site_name: Repetição espaçada - NLP
+repo_url: https://github.com/Crystian0704/nlp-spaced-repetition
+repo_name: Crystian0704/nlp-spaced-repetition
+edit_uri: tree/main/docs
+
+theme: 
+  name: material
+  language: pt-BR
+  logo: assets/logo.png
+  favicon: assets/logo.png
+
+markdown_extensions:
+  - attr_list
+
+extra_css:
+  - stylesheets/extra.css
